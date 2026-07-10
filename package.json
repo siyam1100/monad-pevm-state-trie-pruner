@@ -1,0 +1,10 @@
+{
+  "name": "monad-pevm-state-trie-pruner",
+  "version": "1.0.0",
+  "description": "High-throughput parallel state pruner and asynchronous node storage allocator for MonadDB",
+  "main": "simulateTriePruner.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
